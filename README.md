@@ -12,4 +12,16 @@ Three projects in this repository are
 
 Console app is responsible for displaying the result like the strength of the password, and also the number of times the password is compromised in data breach like below.
 
+# Additional Resources
+<ul>
+  <li><a href="https://haveibeenpwned.com/Passwords">Have I been pwned API</a></li>
+  <li> <a href="https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity">Introduction to ASP.NET Core Identity</a>
+  </li>
+  <li><a href="https://docs.microsoft.com/en-us/aspnet/core/fundamentals/http-requests?view=aspnetcore-3.1">HttpClient Factory in Ap.net      Core3.0</a></li>
+</ul>
 
+  
+
+ 
+
+  
