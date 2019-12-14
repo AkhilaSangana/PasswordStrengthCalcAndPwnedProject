@@ -22,7 +22,19 @@ Users can enter an email address, and see a list of all known data breaches with
 
 Service URL: https://haveibeenpwned.com/api/ 
 
+# Project Result
+
+After running console app will gives result like below for a sample password entered that is abcd
+
 ````
+Password should have minimum of 8 characters, atleast one uppercase letter and lowercase letter and atleast one non-letter char(digit or special character).
+
+Please enter your password to know the strength and also the number of times it appeared in data breach!
+
+abcd
+
+Your password strenth is Veryweak
+The password you chose has appeared in a data breach 66545 times. It is recommended that you chose different password.!!
 
 ````
 
